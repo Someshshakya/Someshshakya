@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/someshshakya_" target="blank"><img src="https://img.shields.io/twitter/follow/someshshakya_?logo=twitter&style=for-the-badge" alt="someshshakya_" /></a> </p>
 
-- 🌱 I’m currently Working in **ExpressJs and HapiJs framework**
+- 🌱 I’m currently Working in **Node js**
 
-- 💬 Ask me about **Backend Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **somesh2001pal@gmail.com**
 
