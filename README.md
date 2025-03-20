@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me Email: **somesh2001pal@gmail.com** PHone: **+91 8433421817**
+- 📫 How to reach me Email: **somesh2001pal@gmail.com** Phone: **+91 8433421817**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
